@@ -26,8 +26,6 @@ Full flow in NiFi involves fetching the CSV file, converting it to JSON, changin
 ## How to Run
 
 To run the project:
-
-Open the above file in Jupyter Notebook or VS code.
-Select each cell from top to bottom.
-Click the "Run" button in Jupyter Notebook or VS code to execute the code in each cell sequentially.
+Draw The process Flow and, 
+Click the "Run" button in Apache NiFi to execute the flow.
 
